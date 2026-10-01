@@ -2,6 +2,13 @@
 
 The Snapkin marketing site → **https://snapkin.tools**
 
+<p>
+<img src="docs/shots/desktop.png" width="640" alt="snapkin.tools on a desktop: 'Calipers in. CAD out.', a napkin sketch of a hinge pin next to the app on an iPhone">
+<img src="docs/shots/phone.png" width="180" alt="snapkin.tools on a phone">
+</p>
+
+The whole page, at half scale: [`docs/shots/full-page.jpg`](docs/shots/full-page.jpg)
+
 The app is a separate repo and a separate domain: [`m0n01d/caliper-companion`](https://github.com/m0n01d/caliper-companion)
 → https://app.snapkin.tools. The brand kit and the design docs live there too.
 
@@ -30,6 +37,7 @@ Serve the folder from its own root, as Pages does. `404.html` uses root paths (`
 | `og.png` | The 1200 × 630 link preview |
 | `snapkin-demo.mp4` | The 66 s demo recorded from the app |
 | `favicon.svg`, `icon-192.png`, `apple-touch-icon.png` | The app icon |
+| `docs/shots/` | The README screenshots: desktop 1440 × 900, phone 390 × 844 at 2×, the full page |
 
 ## Domain
 

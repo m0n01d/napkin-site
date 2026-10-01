@@ -39,6 +39,9 @@ python3 -m http.server 8080
 Render `http://localhost:8080/` at 1440 × 900 and 390 × 844. Check for no horizontal overflow, no
 failed requests, and that the Space Grotesk font loads. Render `/404.html` too.
 
+When the page changes, retake the README screenshots in `docs/shots/` in the same commit: desktop
+1440 × 900 at 1×, phone 390 × 844 at 2×, and the full page at half scale as JPEG.
+
 ## Pull requests
 
 The conventions' PR rules apply: screenshots on every change that shows on the page. This repo
